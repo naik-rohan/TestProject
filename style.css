@@ -6,7 +6,7 @@ body{
     background:url(6.jpg) ;
     background-size: cover;
     background-position: center;
-    height: 100vh;
+    height: 10%;
 }
 .background1{
     background-color:transparent;
@@ -54,6 +54,7 @@ body{
 .whole1{
     color: aliceblue;
     font-family: "poppins",sans-serif;
+    margin-bottom: 120px;
 }
 .email i{
     position: absolute;
