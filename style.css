@@ -3,10 +3,10 @@
     padding: 0;
 }
 body{
-    background:url(6.jpg) ;
+    background:url(a.webp) ;
     background-size: cover;
     background-position: center;
-    height: 10%;
+    height: 100%;
 }
 .background1{
     background-color:transparent;
@@ -54,7 +54,7 @@ body{
 .whole1{
     color: aliceblue;
     font-family: "poppins",sans-serif;
-    margin-bottom: 120px;
+    margin-bottom: 300px;
 }
 .email i{
     position: absolute;
